@@ -84,7 +84,6 @@ function resetGame(){
     state.values.numLife = 3;
     state.values.hitPosition = null;
 
-    // atualiza UI
     state.view.score.textContent = 0;
     state.view.timeLeft.textContent = 60;
     state.view.life.textContent = 3;
