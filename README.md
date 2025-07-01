@@ -27,7 +27,6 @@ detonaRalf/
 
 * **HTML5** e **CSS3** (Flexbox)
 * **JavaScript (ES6+)**
-* **Pygame**: �� (remover se não usado) // Actually Pygame is not used in web version.
 * **Audio API**: reprodução de sons
 
 ## 🎮 Como Jogar
