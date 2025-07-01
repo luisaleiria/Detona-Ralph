@@ -68,4 +68,4 @@ Este projeto está sob a [MIT License](LICENSE).
 
 ---
 
-*Desenvolvido por Luisa Leiria e equipe para o Bootcamp Frontend.*
+*Desenvolvido por Luisa Leiria.*
